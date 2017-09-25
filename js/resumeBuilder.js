@@ -2,7 +2,7 @@ var bio = {
 	"name": "Macy McGahee",
 	"role": "Front-End Web Developer",
 	"contacts": {
-		"mobile": "(913) 982-6713",
+		"mobile": "(913) 982-****",
 		"email": "mcgahee.macy@gmail.com",
 		"github": "macymay",
 		//"twitter": "none",
